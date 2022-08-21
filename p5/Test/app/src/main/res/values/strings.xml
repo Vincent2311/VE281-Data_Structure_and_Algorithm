@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_shops">List</string>
+    <string name="tab_text_find">Find</string>
+    <string name="tab_text_map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="array_name">
+        <item>Shop for reference</item>
+    </string-array>
+
+</resources>
